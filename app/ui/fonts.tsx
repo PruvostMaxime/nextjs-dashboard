@@ -7,4 +7,5 @@ export const roboto = Roboto({
 
 export const bungee = Bungee({
     weight: ['400'],
+    subsets: ['latin'],
 })
